@@ -43,7 +43,7 @@ function askQuestion2(answer: Answer){
 }
 askQuestion2(Answer.Yes);
 askQuestion2(Answer.No);
-
+s
 askQuestion('예스');
 askQuestion('y');
 askQuestion('Yes');
